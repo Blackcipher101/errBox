@@ -1,2 +1,4 @@
 # There might be a missing dependency !
 pytz==2018.4
+Django==2.0.8
+
